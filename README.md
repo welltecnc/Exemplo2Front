@@ -11,3 +11,6 @@
  # Executar o Projeto
 
  npm run dev
+
+# instalando a dependencia do router dom
+ npm install react-router-dom
